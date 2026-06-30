@@ -1,1 +1,2 @@
-# applicatio
+# application adding developer A story
+
